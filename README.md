@@ -1,2 +1,2 @@
 # indigotest-api
-Servicios web para aplicaciíon To Do List
+Servicios web para aplicación To Do List
